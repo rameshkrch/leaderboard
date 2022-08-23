@@ -1,19 +1,20 @@
 import React, { useState } from 'react'
 import Profiles from './profiles';
 import { Leaderboard } from './database';
+import Typography from '@mui/material/Typography';
 
 export default function Board() {
 
     const [gameId, setgameId] = useState(0);
 
     const handleClick = (e) => {
-
         setgameId(e.target.dataset.id)
     }
-
     return (
         <div className="board">
-            <h1 className='leaderboard'>Leaderboard</h1>
+            <Typography variant="h2" gutterBottom>
+                Score board
+                </Typography>
 
             <div className="duration">
                 <button onClick={handleClick} data-id='1'>Game 1</button>
@@ -40,5 +41,5 @@ function between(data, id) {
             return val.gameId === id;
         })
     }
-    return scoreObj.sort((a,b) => b.score - a.score);
+    return scoreObj.sort((a, b) => b.score - a.score);
 }
