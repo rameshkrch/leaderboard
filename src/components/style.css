@@ -77,6 +77,11 @@
    padding: 1em;
 }
 
+#profile .flex .game{
+    display: flex;
+    align-items: center;
+}
+
 .text-dark{
     color: var(--color-dark);
 }

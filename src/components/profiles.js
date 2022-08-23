@@ -23,6 +23,10 @@ function Item(data) {
                                 <span>{value.teamName}</span>
                             </div>
                         </div>
+
+                        <div className="game">
+                            <span>{value.gameId}</span>
+                        </div>
                         <div className="item">
                             <span>{value.score}</span>
                         </div>
