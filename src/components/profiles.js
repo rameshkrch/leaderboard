@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Stack from '@mui/material/Stack';
 import TextField from '@mui/material/TextField';
 import Table from '@mui/material/Table';
@@ -20,6 +20,11 @@ export default function profiles({ Leaderboard }) {
     )
 }
 function Item(data) {
+    const [score, setScore] = useState('');
+    const handleChange = event => {
+        setScore(event.target.value);
+        console.log('value is:', event.target.value);
+    };
 
     return (
         <>
@@ -41,14 +46,9 @@ function Item(data) {
                                                     </div>
                                                 </div>
                                             </TableCell>
-                                            <TableCell style={{ width: 140 }} align="left">
-                                                <Typography variant="h6" gutterBottom>
-                                                    {value.gameId}
-                                                </Typography>
-                                            </TableCell>
                                             <TableCell style={{ width: 210 }} align="right">
                                                 <Stack spacing={2} direction="row">
-                                                    <TextField label="Add Score" focused />
+                                                    <TextField label="Add Score" id="score" name="score" onChange={handleChange} value={score} focused />
                                                     <IconButton color="primary" aria-label="add to shopping cart">
                                                         <AddCircleIcon fontSize="large" />
                                                     </IconButton>

@@ -3,6 +3,8 @@ import Profiles from './profiles';
 import { Leaderboard } from './database';
 import Typography from '@mui/material/Typography';
 
+let scoreObj = [];
+
 export default function Board() {
 
     const [gameId, setgameId] = useState(0);
@@ -14,7 +16,7 @@ export default function Board() {
         <div className="board">
             <Typography variant="h2" gutterBottom>
                 Score board
-                </Typography>
+            </Typography>
 
             <div className="duration">
                 <button onClick={handleClick} data-id='1'>Game 1</button>
@@ -32,14 +34,33 @@ export default function Board() {
 }
 
 function between(data, id) {
-    let scoreObj = [];
     if (id == 0) {
-        scoreObj = data;
+        scoreObj = [];
+        let finalScore = (teamId) => data.filter(i => i.teamId === teamId).reduce((a, b) => a + b.score, 0);
+        const teams = Math.max(...data.map(o => o.teamId));
+        let finalTeam = [];
+        let finalName = [];
+        let scoreArr = [];
+        for (let i = 1; i <= teams; i++) {
+            data.sort((a, b) => b.score - a.score);
+            finalName = data.find(e => e.teamId == i);
+            finalTeam.push(finalName);
+            scoreArr = finalTeam.map(obj => {
+                if (obj.teamId == i) {
+                    return {...obj, score: finalScore(i)};
+                }
+                return obj;
+            })
+        }
+        console.log(scoreArr);
+        scoreObj = scoreArr;
     }
     else {
+        scoreObj = [];
         scoreObj = data.filter(val => {
             return val.gameId === id;
         })
     }
     return scoreObj.sort((a, b) => b.score - a.score);
+
 }
