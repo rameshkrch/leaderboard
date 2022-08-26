@@ -56,6 +56,14 @@ export const Leaderboard = [
         gameId: "1"
     },
     {
+        name: "United Team",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 8,
+        score: 150,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_8.JPG",
+        gameId: "1"
+    },
+    {
         name: "Old Monks",
         teamName: "Pramod | Ashutosh | Sachin | Saket",
         teamId: 1,
@@ -75,7 +83,7 @@ export const Leaderboard = [
         name: "F.R.I.E.N.D.S.",
         teamName: "Mahesh | Shwetha | Uzma | Bhavya",
         teamId: 3,
-        score: 0,
+        score: 100,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_3.JPG",
         gameId: "2"
     },
@@ -99,7 +107,7 @@ export const Leaderboard = [
         name: "KGF",
         teamName: "Shwetha | Varun | Prashant | Bibek",
         teamId: 6,
-        score: 0,
+        score: 20,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_6.JPG",
         gameId: "2"
     },
@@ -112,6 +120,14 @@ export const Leaderboard = [
         gameId: "2"
     },
     {
+        name: "United Team",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 8,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_8.JPG",
+        gameId: "2"
+    },
+    {
         name: "Old Monks",
         teamName: "Pramod | Ashutosh | Sachin | Saket",
         teamId: 1,
@@ -168,6 +184,14 @@ export const Leaderboard = [
         gameId: "3"
     },
     {
+        name: "United Team",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 8,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_8.JPG",
+        gameId: "3"
+    },
+    {
         name: "Old Monks",
         teamName: "Pramod | Ashutosh | Sachin | Saket",
         teamId: 1,
@@ -224,6 +248,14 @@ export const Leaderboard = [
         gameId: "4"
     },
     {
+        name: "United Team",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 8,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_8.JPG",
+        gameId: "4"
+    },
+    {
         name: "Old Monks",
         teamName: "Pramod | Ashutosh | Sachin | Saket",
         teamId: 1,
@@ -277,6 +309,14 @@ export const Leaderboard = [
         teamId: 7,
         score: 0,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_7.JPG",
+        gameId: "5"
+    },
+    {
+        name: "United Team",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 8,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_8.JPG",
         gameId: "5"
     }
 
