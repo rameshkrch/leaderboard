@@ -27,7 +27,7 @@ export const Leaderboard = [
         name: "Mantis Swarm",
         teamName: "Ashish | Smaranika | Gregory | Claudia",
         teamId: 4,
-        score: 0,
+        score: 141,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_4.JPG",
         gameId: "1"
     },
@@ -43,7 +43,7 @@ export const Leaderboard = [
         name: "KGF",
         teamName: "Shwetha | Varun | Prashant | Bibek",
         teamId: 6,
-        score: 0,
+        score: 139,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_6.JPG",
         gameId: "1"
     },
@@ -100,6 +100,46 @@ export const Leaderboard = [
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 13,
         score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_13.JPG",
+        gameId: "1"
+    },
+    {
+        name: "Ureka 22",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 14,
+        score: 101,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "1"
+    },
+    {
+        name: "Captain Sparrow",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 15,
+        score: 155,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "1"
+    },
+    {
+        name: "Paan Parag",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 16,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "1"
+    },
+    {
+        name: "Incredible 4",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 17,
+        score: 154,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "1"
+    },
+    {
+        name: "Sleeping Strikers",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 18,
+        score: 152,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
         gameId: "1"
     },
@@ -131,7 +171,7 @@ export const Leaderboard = [
         name: "Mantis Swarm",
         teamName: "Ashish | Smaranika | Gregory | Claudia",
         teamId: 4,
-        score: 0,
+        score: 50,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_4.JPG",
         gameId: "2"
     },
@@ -139,7 +179,7 @@ export const Leaderboard = [
         name: "Ninjas in Pyjamas",
         teamName: "Hans | Michelle | Prashanth | Nabanita",
         teamId: 5,
-        score: 0,
+        score: 40,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_5.jpg",
         gameId: "2"
     },
@@ -178,8 +218,8 @@ export const Leaderboard = [
     {
         name: "Absolute",
         teamName: "Ajish | Chandru | Dinakar | Pradeep",
-        teamId: 70,
-        score: 0,
+        teamId: 10,
+        score: 70,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_10.JPG",
         gameId: "2"
     },
@@ -203,6 +243,46 @@ export const Leaderboard = [
         name: "United 4",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 13,
+        score: 90,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "2"
+    },
+    {
+        name: "Ureka 22",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 14,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "2"
+    },
+    {
+        name: "Captain Sparrow",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 15,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "2"
+    },
+    {
+        name: "Paan Parag",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 16,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "2"
+    },
+    {
+        name: "Incredible 4",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 17,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "2"
+    },
+    {
+        name: "Sleeping Strikers",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 18,
         score: 0,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
         gameId: "2"
@@ -227,7 +307,7 @@ export const Leaderboard = [
         name: "F.R.I.E.N.D.S.",
         teamName: "Mahesh | Shwetha | Uzma | Bhavya",
         teamId: 3,
-        score: 0,
+        score: 80,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_3.JPG",
         gameId: "3"
     },
@@ -283,7 +363,7 @@ export const Leaderboard = [
         name: "Absolute",
         teamName: "Ajish | Chandru | Dinakar | Pradeep",
         teamId: 10,
-        score: 0,
+        score: 60,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_10.JPG",
         gameId: "3"
     },
@@ -307,9 +387,49 @@ export const Leaderboard = [
         name: "United 4",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 13,
+        score: 40,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "2"
+    },
+    {
+        name: "Ureka 22",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 14,
         score: 0,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
-        gameId: "1"
+        gameId: "3"
+    },
+    {
+        name: "Captain Sparrow",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 15,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "3"
+    },
+    {
+        name: "Paan Parag",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 16,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "3"
+    },
+    {
+        name: "Incredible 4",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 17,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "3"
+    },
+    {
+        name: "Sleeping Strikers",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 18,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "3"
     },
     {
         name: "Old Monks",
@@ -416,6 +536,46 @@ export const Leaderboard = [
         gameId: "4"
     },
     {
+        name: "Ureka 22",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 14,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "4"
+    },
+    {
+        name: "Captain Sparrow",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 15,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "4"
+    },
+    {
+        name: "Paan Parag",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 16,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "4"
+    },
+    {
+        name: "Incredible 4",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 17,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "4"
+    },
+    {
+        name: "Sleeping Strikers",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 18,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "4"
+    },
+    {
         name: "Old Monks",
         teamName: "Pramod | Ashutosh | Sachin | Saket",
         teamId: 1,
@@ -515,6 +675,46 @@ export const Leaderboard = [
         name: "United 4",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 13,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "5"
+    },
+    {
+        name: "Ureka 22",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 14,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "5"
+    },
+    {
+        name: "Captain Sparrow",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 15,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "5"
+    },
+    {
+        name: "Paan Parag",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 16,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "5"
+    },
+    {
+        name: "Incredible 4",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 17,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "5"
+    },
+    {
+        name: "Sleeping Strikers",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 18,
         score: 0,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
         gameId: "5"
