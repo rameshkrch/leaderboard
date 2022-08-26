@@ -3,7 +3,7 @@ export const Leaderboard = [
         name: "Old Monks",
         teamName: "Pramod|Ashutosh|Sachin|Saket",
         teamId: 1,
-        score: 0,
+        score: 1000,
         img: "",
         gameId: "1"
     },
@@ -11,7 +11,7 @@ export const Leaderboard = [
         name: "Fabulous 4",
         teamName: "Minhaj|Amit|Deepak|Sovana",
         teamId: 2,
-        score: 0,
+        score: 500,
         img: "",
         gameId: "1"
     },
