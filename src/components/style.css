@@ -19,6 +19,8 @@
 
 .board {
     text-align: center;
+    color: var(--color-light);
+    background-color: transparent;
 }
 
 .board .leaderboard{
@@ -29,6 +31,7 @@
     display: flex;
     justify-content: center;
     gap: 1em;
+    color: var(--color-light);
 }
 
 .board .duration > button{
@@ -37,6 +40,7 @@
     border-radius: 50px;
     background-color: transparent;
     cursor: pointer;
+    color: var(--color-light);
 }
 
 .board .duration > button:hover{

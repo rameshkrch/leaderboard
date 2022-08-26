@@ -46,14 +46,6 @@ function Item(data) {
                                                     </div>
                                                 </div>
                                             </TableCell>
-                                            <TableCell style={{ width: 210 }} align="right">
-                                                <Stack spacing={2} direction="row">
-                                                    <TextField label="Add Score" id="score" name="score" onChange={handleChange} value={score} focused />
-                                                    <IconButton color="primary" aria-label="add to shopping cart">
-                                                        <AddCircleIcon fontSize="large" />
-                                                    </IconButton>
-                                                </Stack>
-                                            </TableCell>
                                             <TableCell style={{ width: 240 }} align="left">
                                                 <Typography variant="h4" gutterBottom>
                                                     {value.score}

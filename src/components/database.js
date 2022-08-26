@@ -1,90 +1,202 @@
 export const Leaderboard = [
     {
-        name: "Priyanka Guggari",
-        teamName: "Team Champion",
+        name: "Old Monks",
+        teamName: "Pramod Ashutosh Sachin Saket",
         teamId: 1,
-        score: 1500,
-        img: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
+        score: 0,
+        img: "",
         gameId: "1"
     },
     {
-        name: "Rameez Dalvi",
-        teamName: "Team Looser",
+        name: "Fabulous 4",
+        teamName: "Minhaj Amit Deepak Sovana",
         teamId: 2,
-        score: 1000,
-        img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
+        score: 0,
+        img: "",
         gameId: "1"
     },
     {
-        name: "Ramesh Choudhary",
-        teamName: "Team Moderate",
+        name: "F.R.I.E.N.D.S.",
+        teamName: "Mahesh Shwetha Uzma Bhavya",
         teamId: 3,
-        score: 1500,
-        img: "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
+        score: 0,
+        img: "",
         gameId: "1"
     },
     {
-        name: "Priyanka Guggari",
-        teamName: "Team Champion",
+        name: "Mantis Swarm",
+        teamName: "Ashish Smaranika Gregory Claudia",
+        teamId: 4,
+        score: 0,
+        img: "",
+        gameId: "1"
+    },
+    {
+        name: "Ninjas in Pyjamas",
+        teamName: "Hans Michelle Prashanth Nabanita",
+        teamId: 5,
+        score: 0,
+        img: "",
+        gameId: "1"
+    },
+    {
+        name: "Old Monks",
+        teamName: "Pramod Ashutosh Sachin Saket",
         teamId: 1,
-        score: 500,
-        img: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
+        score: 0,
+        img: "",
         gameId: "2"
     },
     {
-        name: "Rameez Dalvi",
-        teamName: "Team Looser",
+        name: "Fabulous 4",
+        teamName: "Minhaj Amit Deepak Sovana",
         teamId: 2,
-        score: 1000,
-        img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
+        score: 0,
+        img: "",
         gameId: "2"
     },
     {
-        name: "Ramesh Choudhary",
-        teamName: "Team Moderate",
-        score: 1500,
+        name: "F.R.I.E.N.D.S.",
+        teamName: "Mahesh Shwetha Uzma Bhavya",
         teamId: 3,
-        img: "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
+        score: 0,
+        img: "",
         gameId: "2"
     },
     {
-        name: "Priyanka Guggari",
-        teamName: "Team Champion",
-        score: 2500,
+        name: "Mantis Swarm",
+        teamName: "Ashish Smaranika Gregory Claudia",
+        teamId: 4,
+        score: 0,
+        img: "",
+        gameId: "2"
+    },
+    {
+        name: "Ninjas in Pyjamas",
+        teamName: "Hans Michelle Prashanth Nabanita",
+        teamId: 5,
+        score: 0,
+        img: "",
+        gameId: "2"
+    },
+    {
+        name: "Old Monks",
+        teamName: "Pramod Ashutosh Sachin Saket",
         teamId: 1,
-        img: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
+        score: 0,
+        img: "",
         gameId: "3"
     },
     {
-        name: "Rameez Dalvi",
-        teamName: "Team Looser",
-        score: 1000,
+        name: "Fabulous 4",
+        teamName: "Minhaj Amit Deepak Sovana",
         teamId: 2,
-        img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
+        score: 0,
+        img: "",
         gameId: "3"
     },
     {
-        name: "Ramesh Choudhary",
-        teamName: "Team Moderate",
-        score: 1500,
+        name: "F.R.I.E.N.D.S.",
+        teamName: "Mahesh Shwetha Uzma Bhavya",
         teamId: 3,
-        img: "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
+        score: 0,
+        img: "",
         gameId: "3"
     },
     {
-        name: "Ramesh Choudhary",
-        teamName: "Team Moderate",
-        score: 500,
-        teamId: 3,
-        img: "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
+        name: "Mantis Swarm",
+        teamName: "Ashish Smaranika Gregory Claudia",
+        teamId: 4,
+        score: 0,
+        img: "",
+        gameId: "3"
+    },
+    {
+        name: "Ninjas in Pyjamas",
+        teamName: "Hans Michelle Prashanth Nabanita",
+        teamId: 5,
+        score: 0,
+        img: "",
+        gameId: "3"
+    },
+    {
+        name: "Old Monks",
+        teamName: "Pramod Ashutosh Sachin Saket",
+        teamId: 1,
+        score: 0,
+        img: "",
         gameId: "4"
     },
     {
-        name: "Ramesh Choudhary",
-        teamName: "Team Moderate",
-        score: 500,
+        name: "Fabulous 4",
+        teamName: "Minhaj Amit Deepak Sovana",
+        teamId: 2,
+        score: 0,
+        img: "",
+        gameId: "4"
+    },
+    {
+        name: "F.R.I.E.N.D.S.",
+        teamName: "Mahesh Shwetha Uzma Bhavya",
         teamId: 3,
-        img: "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
+        score: 0,
+        img: "",
+        gameId: "4"
+    },
+    {
+        name: "Mantis Swarm",
+        teamName: "Ashish Smaranika Gregory Claudia",
+        teamId: 4,
+        score: 0,
+        img: "",
+        gameId: "4"
+    },
+    {
+        name: "Ninjas in Pyjamas",
+        teamName: "Hans Michelle Prashanth Nabanita",
+        teamId: 5,
+        score: 0,
+        img: "",
+        gameId: "4"
+    },
+    {
+        name: "Old Monks",
+        teamName: "Pramod Ashutosh Sachin Saket",
+        teamId: 1,
+        score: 0,
+        img: "",
+        gameId: "5"
+    },
+    {
+        name: "Fabulous 4",
+        teamName: "Minhaj Amit Deepak Sovana",
+        teamId: 2,
+        score: 0,
+        img: "",
+        gameId: "5"
+    },
+    {
+        name: "F.R.I.E.N.D.S.",
+        teamName: "Mahesh Shwetha Uzma Bhavya",
+        teamId: 3,
+        score: 0,
+        img: "",
+        gameId: "5"
+    },
+    {
+        name: "Mantis Swarm",
+        teamName: "Ashish Smaranika Gregory Claudia",
+        teamId: 4,
+        score: 0,
+        img: "",
+        gameId: "5"
+    },
+    {
+        name: "Ninjas in Pyjamas",
+        teamName: "Hans Michelle Prashanth Nabanita",
+        teamId: 5,
+        score: 0,
+        img: "",
         gameId: "5"
     }
 
