@@ -64,6 +64,46 @@ export const Leaderboard = [
         gameId: "1"
     },
     {
+        name: "Carlsberg",
+        teamName: "Naresh | Manish | Rohit | Anupama",
+        teamId: 9,
+        score: 176,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_9.JPG",
+        gameId: "1"
+    },
+    {
+        name: "Absolute",
+        teamName: "Ajish | Chandru | Dinakar | Pradeep",
+        teamId: 10,
+        score: 212,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_10.JPG",
+        gameId: "1"
+    },
+    {
+        name: "Bacardi",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 11,
+        score: 141,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_11.JPG",
+        gameId: "1"
+    },
+    {
+        name: "Black Label",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 12,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "1"
+    },
+    {
+        name: "United 4",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 13,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "1"
+    },
+    {
         name: "Old Monks",
         teamName: "Pramod | Ashutosh | Sachin | Saket",
         teamId: 1,
@@ -123,8 +163,48 @@ export const Leaderboard = [
         name: "United Team",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 8,
-        score: 0,
+        score: 70,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_8.JPG",
+        gameId: "2"
+    },
+    {
+        name: "Carlsberg",
+        teamName: "Naresh | Manish | Rohit | Anupama",
+        teamId: 9,
+        score: 50,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_9.JPG",
+        gameId: "2"
+    },
+    {
+        name: "Absolute",
+        teamName: "Ajish | Chandru | Dinakar | Pradeep",
+        teamId: 70,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_10.JPG",
+        gameId: "2"
+    },
+    {
+        name: "Bacardi",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 11,
+        score: 60,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_11.JPG",
+        gameId: "2"
+    },
+    {
+        name: "Black Label",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 12,
+        score: 60,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "2"
+    },
+    {
+        name: "United 4",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 13,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
         gameId: "2"
     },
     {
@@ -192,6 +272,46 @@ export const Leaderboard = [
         gameId: "3"
     },
     {
+        name: "Carlsberg",
+        teamName: "Naresh | Manish | Rohit | Anupama",
+        teamId: 9,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_9.JPG",
+        gameId: "3"
+    },
+    {
+        name: "Absolute",
+        teamName: "Ajish | Chandru | Dinakar | Pradeep",
+        teamId: 10,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_10.JPG",
+        gameId: "3"
+    },
+    {
+        name: "Bacardi",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 11,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_11.JPG",
+        gameId: "3"
+    },
+    {
+        name: "Black Label",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 12,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "3"
+    },
+    {
+        name: "United 4",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 13,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "1"
+    },
+    {
         name: "Old Monks",
         teamName: "Pramod | Ashutosh | Sachin | Saket",
         teamId: 1,
@@ -256,6 +376,46 @@ export const Leaderboard = [
         gameId: "4"
     },
     {
+        name: "Carlsberg",
+        teamName: "Naresh | Manish | Rohit | Anupama",
+        teamId: 9,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_9.JPG",
+        gameId: "4"
+    },
+    {
+        name: "Absolute",
+        teamName: "Ajish | Chandru | Dinakar | Pradeep",
+        teamId: 10,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_10.JPG",
+        gameId: "4"
+    },
+    {
+        name: "Bacardi",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 11,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_11.JPG",
+        gameId: "4"
+    },
+    {
+        name: "Black Label",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 12,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "4"
+    },
+    {
+        name: "United 4",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 13,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "4"
+    },
+    {
         name: "Old Monks",
         teamName: "Pramod | Ashutosh | Sachin | Saket",
         teamId: 1,
@@ -317,6 +477,46 @@ export const Leaderboard = [
         teamId: 8,
         score: 0,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_8.JPG",
+        gameId: "5"
+    },
+    {
+        name: "Carlsberg",
+        teamName: "Naresh | Manish | Rohit | Anupama",
+        teamId: 9,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_9.JPG",
+        gameId: "5"
+    },
+    {
+        name: "Absolute",
+        teamName: "Ajish | Chandru | Dinakar | Pradeep",
+        teamId: 10,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_10.JPG",
+        gameId: "5"
+    },
+    {
+        name: "Bacardi",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 11,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_11.JPG",
+        gameId: "5"
+    },
+    {
+        name: "Black Label",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 12,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
+        gameId: "5"
+    },
+    {
+        name: "United 4",
+        teamName: "Arpan | Amar | Kanchan | Srinivas",
+        teamId: 13,
+        score: 0,
+        img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
         gameId: "5"
     }
 
