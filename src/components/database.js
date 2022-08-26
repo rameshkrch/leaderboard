@@ -1,7 +1,7 @@
 export const Leaderboard = [
     {
         name: "Old Monks",
-        teamName: "Pramod Ashutosh Sachin Saket",
+        teamName: "Pramod|Ashutosh|Sachin|Saket",
         teamId: 1,
         score: 0,
         img: "",
@@ -9,7 +9,7 @@ export const Leaderboard = [
     },
     {
         name: "Fabulous 4",
-        teamName: "Minhaj Amit Deepak Sovana",
+        teamName: "Minhaj|Amit|Deepak|Sovana",
         teamId: 2,
         score: 0,
         img: "",
@@ -17,7 +17,7 @@ export const Leaderboard = [
     },
     {
         name: "F.R.I.E.N.D.S.",
-        teamName: "Mahesh Shwetha Uzma Bhavya",
+        teamName: "Mahesh|Shwetha|Uzma|Bhavya",
         teamId: 3,
         score: 0,
         img: "",
@@ -25,7 +25,7 @@ export const Leaderboard = [
     },
     {
         name: "Mantis Swarm",
-        teamName: "Ashish Smaranika Gregory Claudia",
+        teamName: "Ashish|Smaranika|Gregory|Claudia",
         teamId: 4,
         score: 0,
         img: "",
@@ -33,7 +33,7 @@ export const Leaderboard = [
     },
     {
         name: "Ninjas in Pyjamas",
-        teamName: "Hans Michelle Prashanth Nabanita",
+        teamName: "Hans|ichelle|Prashanth|Nabanita",
         teamId: 5,
         score: 0,
         img: "",
@@ -41,7 +41,7 @@ export const Leaderboard = [
     },
     {
         name: "Old Monks",
-        teamName: "Pramod Ashutosh Sachin Saket",
+        teamName: "Pramod|Ashutosh|Sachin|Saket",
         teamId: 1,
         score: 0,
         img: "",
@@ -49,7 +49,7 @@ export const Leaderboard = [
     },
     {
         name: "Fabulous 4",
-        teamName: "Minhaj Amit Deepak Sovana",
+        teamName: "Minhaj|Amit|Deepak|Sovana",
         teamId: 2,
         score: 0,
         img: "",
@@ -57,7 +57,7 @@ export const Leaderboard = [
     },
     {
         name: "F.R.I.E.N.D.S.",
-        teamName: "Mahesh Shwetha Uzma Bhavya",
+        teamName: "Mahesh|Shwetha|Uzma|Bhavya",
         teamId: 3,
         score: 0,
         img: "",
@@ -65,7 +65,7 @@ export const Leaderboard = [
     },
     {
         name: "Mantis Swarm",
-        teamName: "Ashish Smaranika Gregory Claudia",
+        teamName: "Ashish|Smaranika|Gregory|Claudia",
         teamId: 4,
         score: 0,
         img: "",
@@ -73,7 +73,7 @@ export const Leaderboard = [
     },
     {
         name: "Ninjas in Pyjamas",
-        teamName: "Hans Michelle Prashanth Nabanita",
+        teamName: "Hans|ichelle|Prashanth|Nabanita",
         teamId: 5,
         score: 0,
         img: "",
@@ -81,7 +81,7 @@ export const Leaderboard = [
     },
     {
         name: "Old Monks",
-        teamName: "Pramod Ashutosh Sachin Saket",
+        teamName: "Pramod|Ashutosh|Sachin|Saket",
         teamId: 1,
         score: 0,
         img: "",
@@ -89,7 +89,7 @@ export const Leaderboard = [
     },
     {
         name: "Fabulous 4",
-        teamName: "Minhaj Amit Deepak Sovana",
+        teamName: "Minhaj|Amit|Deepak|Sovana",
         teamId: 2,
         score: 0,
         img: "",
@@ -97,7 +97,7 @@ export const Leaderboard = [
     },
     {
         name: "F.R.I.E.N.D.S.",
-        teamName: "Mahesh Shwetha Uzma Bhavya",
+        teamName: "Mahesh|Shwetha|Uzma|Bhavya",
         teamId: 3,
         score: 0,
         img: "",
@@ -105,7 +105,7 @@ export const Leaderboard = [
     },
     {
         name: "Mantis Swarm",
-        teamName: "Ashish Smaranika Gregory Claudia",
+        teamName: "Ashish|Smaranika|Gregory|Claudia",
         teamId: 4,
         score: 0,
         img: "",
@@ -113,7 +113,7 @@ export const Leaderboard = [
     },
     {
         name: "Ninjas in Pyjamas",
-        teamName: "Hans Michelle Prashanth Nabanita",
+        teamName: "Hans|ichelle|Prashanth|Nabanita",
         teamId: 5,
         score: 0,
         img: "",
@@ -121,7 +121,7 @@ export const Leaderboard = [
     },
     {
         name: "Old Monks",
-        teamName: "Pramod Ashutosh Sachin Saket",
+        teamName: "Pramod|Ashutosh|Sachin|Saket",
         teamId: 1,
         score: 0,
         img: "",
@@ -129,7 +129,7 @@ export const Leaderboard = [
     },
     {
         name: "Fabulous 4",
-        teamName: "Minhaj Amit Deepak Sovana",
+        teamName: "Minhaj|Amit|Deepak|Sovana",
         teamId: 2,
         score: 0,
         img: "",
@@ -137,7 +137,7 @@ export const Leaderboard = [
     },
     {
         name: "F.R.I.E.N.D.S.",
-        teamName: "Mahesh Shwetha Uzma Bhavya",
+        teamName: "Mahesh|Shwetha|Uzma|Bhavya",
         teamId: 3,
         score: 0,
         img: "",
@@ -145,7 +145,7 @@ export const Leaderboard = [
     },
     {
         name: "Mantis Swarm",
-        teamName: "Ashish Smaranika Gregory Claudia",
+        teamName: "Ashish|Smaranika|Gregory|Claudia",
         teamId: 4,
         score: 0,
         img: "",
@@ -153,7 +153,7 @@ export const Leaderboard = [
     },
     {
         name: "Ninjas in Pyjamas",
-        teamName: "Hans Michelle Prashanth Nabanita",
+        teamName: "Hans|ichelle|Prashanth|Nabanita",
         teamId: 5,
         score: 0,
         img: "",
@@ -161,7 +161,7 @@ export const Leaderboard = [
     },
     {
         name: "Old Monks",
-        teamName: "Pramod Ashutosh Sachin Saket",
+        teamName: "Pramod|Ashutosh|Sachin|Saket",
         teamId: 1,
         score: 0,
         img: "",
@@ -169,7 +169,7 @@ export const Leaderboard = [
     },
     {
         name: "Fabulous 4",
-        teamName: "Minhaj Amit Deepak Sovana",
+        teamName: "Minhaj|Amit|Deepak|Sovana",
         teamId: 2,
         score: 0,
         img: "",
@@ -177,7 +177,7 @@ export const Leaderboard = [
     },
     {
         name: "F.R.I.E.N.D.S.",
-        teamName: "Mahesh Shwetha Uzma Bhavya",
+        teamName: "Mahesh|Shwetha|Uzma|Bhavya",
         teamId: 3,
         score: 0,
         img: "",
@@ -185,7 +185,7 @@ export const Leaderboard = [
     },
     {
         name: "Mantis Swarm",
-        teamName: "Ashish Smaranika Gregory Claudia",
+        teamName: "Ashish|Smaranika|Gregory|Claudia",
         teamId: 4,
         score: 0,
         img: "",
@@ -193,7 +193,7 @@ export const Leaderboard = [
     },
     {
         name: "Ninjas in Pyjamas",
-        teamName: "Hans Michelle Prashanth Nabanita",
+        teamName: "Hans|ichelle|Prashanth|Nabanita",
         teamId: 5,
         score: 0,
         img: "",

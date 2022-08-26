@@ -65,6 +65,7 @@
     gap: 1em;
     text-align: left;
     margin-bottom: 2em;
+    background-color: transparent;
 }
 
 #profile .flex .item{
