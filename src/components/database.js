@@ -11,7 +11,7 @@ export const Leaderboard = [
         name: "Fabulous 4",
         teamName: "Minhaj | Amit | Deepak | Sovana",
         teamId: 2,
-        score: 0,
+        score: 160,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_2.JPG",
         gameId: "1"
     },
@@ -19,7 +19,7 @@ export const Leaderboard = [
         name: "F.R.I.E.N.D.S.",
         teamName: "Mahesh | Shwetha | Uzma | Bhavya",
         teamId: 3,
-        score: 0,
+        score: 156,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_3.JPG",
         gameId: "1"
     },
@@ -35,7 +35,7 @@ export const Leaderboard = [
         name: "Ninjas in Pyjamas",
         teamName: "Hans | Michelle | Prashanth | Nabanita",
         teamId: 5,
-        score: 0,
+        score: 188,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_5.jpg",
         gameId: "1"
     },
@@ -51,7 +51,7 @@ export const Leaderboard = [
         name: "Team Champions",
         teamName: "Aniket | Dipanjan | Dony | Deepak",
         teamId: 7,
-        score: 0,
+        score: 173,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_7.JPG",
         gameId: "1"
     },
@@ -91,7 +91,7 @@ export const Leaderboard = [
         name: "Black Label",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 12,
-        score: 0,
+        score: 163,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
         gameId: "1"
     },
@@ -99,7 +99,7 @@ export const Leaderboard = [
         name: "United 4",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 13,
-        score: 0,
+        score: 198,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_13.JPG",
         gameId: "1"
     },
@@ -155,7 +155,7 @@ export const Leaderboard = [
         name: "Fabulous 4",
         teamName: "Minhaj | Amit | Deepak | Sovana",
         teamId: 2,
-        score: 0,
+        score: 50,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_2.JPG",
         gameId: "2"
     },
@@ -195,7 +195,7 @@ export const Leaderboard = [
         name: "Team Champions",
         teamName: "Aniket | Dipanjan | Dony | Deepak",
         teamId: 7,
-        score: 0,
+        score: 50,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_7.JPG",
         gameId: "2"
     },
@@ -227,7 +227,7 @@ export const Leaderboard = [
         name: "Bacardi",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 11,
-        score: 60,
+        score: 80,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_11.JPG",
         gameId: "2"
     },
@@ -251,7 +251,7 @@ export const Leaderboard = [
         name: "Ureka 22",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 14,
-        score: 0,
+        score: 30,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
         gameId: "2"
     },
@@ -259,7 +259,7 @@ export const Leaderboard = [
         name: "Captain Sparrow",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 15,
-        score: 0,
+        score: 50,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
         gameId: "2"
     },
@@ -267,7 +267,7 @@ export const Leaderboard = [
         name: "Paan Parag",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 16,
-        score: 0,
+        score: 70,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
         gameId: "2"
     },
@@ -275,7 +275,7 @@ export const Leaderboard = [
         name: "Incredible 4",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 17,
-        score: 0,
+        score: 50,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
         gameId: "2"
     },
@@ -283,7 +283,7 @@ export const Leaderboard = [
         name: "Sleeping Strikers",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 18,
-        score: 0,
+        score: 30,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
         gameId: "2"
     },
@@ -299,7 +299,7 @@ export const Leaderboard = [
         name: "Fabulous 4",
         teamName: "Minhaj | Amit | Deepak | Sovana",
         teamId: 2,
-        score: 0,
+        score: 250,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_2.JPG",
         gameId: "3"
     },
@@ -315,7 +315,7 @@ export const Leaderboard = [
         name: "Mantis Swarm",
         teamName: "Ashish | Smaranika | Gregory | Claudia",
         teamId: 4,
-        score: 0,
+        score: 100,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_4.JPG",
         gameId: "3"
     },
@@ -323,7 +323,7 @@ export const Leaderboard = [
         name: "Ninjas in Pyjamas",
         teamName: "Hans | Michelle | Prashanth | Nabanita",
         teamId: 5,
-        score: 0,
+        score: 60,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_5.jpg",
         gameId: "3"
     },
@@ -331,7 +331,7 @@ export const Leaderboard = [
         name: "KGF",
         teamName: "Shwetha | Varun | Prashant | Bibek",
         teamId: 6,
-        score: 0,
+        score: 60,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_6.JPG",
         gameId: "3"
     },
@@ -347,7 +347,7 @@ export const Leaderboard = [
         name: "United Team",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 8,
-        score: 0,
+        score: 80,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_8.JPG",
         gameId: "3"
     },
@@ -355,7 +355,7 @@ export const Leaderboard = [
         name: "Carlsberg",
         teamName: "Naresh | Manish | Rohit | Anupama",
         teamId: 9,
-        score: 0,
+        score: 80,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_9.JPG",
         gameId: "3"
     },
@@ -403,7 +403,7 @@ export const Leaderboard = [
         name: "Captain Sparrow",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 15,
-        score: 0,
+        score: 80,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
         gameId: "3"
     },
@@ -451,7 +451,7 @@ export const Leaderboard = [
         name: "F.R.I.E.N.D.S.",
         teamName: "Mahesh | Shwetha | Uzma | Bhavya",
         teamId: 3,
-        score: 0,
+        score: 144,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_3.JPG",
         gameId: "4"
     },
@@ -475,7 +475,7 @@ export const Leaderboard = [
         name: "KGF",
         teamName: "Shwetha | Varun | Prashant | Bibek",
         teamId: 6,
-        score: 0,
+        score: 261,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_6.JPG",
         gameId: "4"
     },
@@ -491,7 +491,7 @@ export const Leaderboard = [
         name: "United Team",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 8,
-        score: 0,
+        score: 202,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_8.JPG",
         gameId: "4"
     },
@@ -499,7 +499,7 @@ export const Leaderboard = [
         name: "Carlsberg",
         teamName: "Naresh | Manish | Rohit | Anupama",
         teamId: 9,
-        score: 0,
+        score: 192,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_9.JPG",
         gameId: "4"
     },
@@ -539,7 +539,7 @@ export const Leaderboard = [
         name: "Ureka 22",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 14,
-        score: 0,
+        score: 159,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
         gameId: "4"
     },
@@ -587,7 +587,7 @@ export const Leaderboard = [
         name: "Fabulous 4",
         teamName: "Minhaj | Amit | Deepak | Sovana",
         teamId: 2,
-        score: 0,
+        score: -20,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_2.JPG",
         gameId: "5"
     },
@@ -611,7 +611,7 @@ export const Leaderboard = [
         name: "Ninjas in Pyjamas",
         teamName: "Hans | Michelle | Prashanth | Nabanita",
         teamId: 5,
-        score: 0,
+        score: 10,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_5.jpg",
         gameId: "5"
     },
@@ -619,7 +619,7 @@ export const Leaderboard = [
         name: "KGF",
         teamName: "Shwetha | Varun | Prashant | Bibek",
         teamId: 6,
-        score: 0,
+        score: 10,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_6.JPG",
         gameId: "5"
     },
@@ -635,7 +635,7 @@ export const Leaderboard = [
         name: "United Team",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 8,
-        score: 0,
+        score: 30,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_8.JPG",
         gameId: "5"
     },
@@ -643,7 +643,7 @@ export const Leaderboard = [
         name: "Carlsberg",
         teamName: "Naresh | Manish | Rohit | Anupama",
         teamId: 9,
-        score: 0,
+        score: 30,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_9.JPG",
         gameId: "5"
     },
@@ -659,7 +659,7 @@ export const Leaderboard = [
         name: "Bacardi",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 11,
-        score: 0,
+        score: 30,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_11.JPG",
         gameId: "5"
     },
@@ -667,7 +667,7 @@ export const Leaderboard = [
         name: "Black Label",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 12,
-        score: 0,
+        score: -10,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
         gameId: "5"
     },
@@ -675,7 +675,7 @@ export const Leaderboard = [
         name: "United 4",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 13,
-        score: 0,
+        score: 20,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
         gameId: "5"
     },
@@ -683,7 +683,7 @@ export const Leaderboard = [
         name: "Ureka 22",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 14,
-        score: 0,
+        score: 20,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
         gameId: "5"
     },
@@ -691,7 +691,7 @@ export const Leaderboard = [
         name: "Captain Sparrow",
         teamName: "Arpan | Amar | Kanchan | Srinivas",
         teamId: 15,
-        score: 0,
+        score: 10,
         img: "https://leaderboard-img.s3.eu-north-1.amazonaws.com/img/Team_12.JPG",
         gameId: "5"
     },
